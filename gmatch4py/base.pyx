@@ -6,7 +6,7 @@ import networkx as nx
 
 cpdef np.ndarray minmax_scale(np.ndarray matrix):
     """
-    Optimize so it can works with Cython
+    Optimize so it can work with Cython
     :param matrix: 
     :return: 
     """
